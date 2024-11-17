@@ -1,6 +1,6 @@
 import Image from 'next/image';
-import { assets } from '@/Assets/assets'
-import React from 'react'
+import { assets } from '@/Assets/assets';
+import React from 'react';
 
 const Header = () => {
   return(
