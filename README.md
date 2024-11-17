@@ -1,8 +1,10 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-
-
-
-## Bugs that needs to be fixed
-
-The [<Footer/>] components it built and stored but still when i call it pages.jsx file it doesnt apper or doesnt seem so load.
+# FullStack Blogging Website
+## Project Guidelines
+This project uses the React version 18 and not 19. Because Toastify is supported not on the React version 18 above as of Nov 2024.
+## Key Technologies Used 
+1. Frontend -> Next.js
+2. UI_Designing -> Tailwindcss & Shadcn/Ui
+3. Databse -> MongoDB Atlas
+4. Backend -> Node JS
+5. Network Request -> Axios
+6. Alert & Error Handler -> React-Toastify
